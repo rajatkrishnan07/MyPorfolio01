@@ -72,10 +72,11 @@ nav ul li{
     font-size: 3rem;
     font-family: 'Fira Sans', sans-serif;
     color: #38a422;
+    margin-top: 5%;
 }
 
 .aboutMe h4{
-    margin-top: 3%;
+    margin-top: 5%;
     margin-bottom: 3%;
     font-size: 1.5rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -89,8 +90,8 @@ nav ul li{
 
 .imgArea img{
     margin-top: 2%;
-    margin-left: -5%;
-    min-height: 100%;
+    margin-left: 10%;
+    height: 20rem;
     width: auto;
 }
 
@@ -111,7 +112,7 @@ nav ul li{
     font-size: 1.3rem;
     text-align: left;
     padding-right: 40%;
-    margin-top: 3%;
+    margin-top: 5%;
 }
 
 .blocks{
