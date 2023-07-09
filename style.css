@@ -7,6 +7,10 @@
     margin: 0;
 }
 
+.container{
+    overflow-x: hidden ;
+}
+
 .nav{
 background-color: black;
 height: 5em;
@@ -33,6 +37,9 @@ nav ul li a{
     color: white;
 }
 
+a:hover{
+    color: #38a422;
+}
 
 #mainCon1{
     text-align: center;
@@ -40,17 +47,18 @@ nav ul li a{
     height: 70vh;
 }
 
+
 .first{
    color: aliceblue;
    padding-top: 3.5rem ;
-  font-size: 5rem;
+  font-size: 4.5rem;
   font-family: 'Fira Sans', sans-serif;
 }
 
 .second{
    color: #38a422;
    padding-top: 0.5rem ;
-  font-size: 5rem;
+  font-size: 4.5rem;
   font-family: 'Dancing Script', cursive;
 }
 
@@ -74,7 +82,7 @@ nav ul li a{
     
 }
 
-.aboutMe h1{
+.aboutMe h2{
     font-size: 3rem;
     font-family: 'Fira Sans', sans-serif;
     color: #38a422;
@@ -92,6 +100,7 @@ nav ul li a{
     font-size: 1.1rem;
     font-family: 'Poppins', sans-serif;
     line-height: 150%;
+    margin-bottom: 5%;
 }
 
 .imgArea img{
@@ -111,11 +120,11 @@ nav ul li a{
 }
 
 .service{
-    padding: 10rem;
+    padding: 5rem;
 }
 
 .service p{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     text-align: left;
     padding-right: 40%;
     margin-top: 5%;
@@ -123,7 +132,7 @@ nav ul li a{
 
 .blocks{
     padding: 10.5rem;
-    margin-top: 1.5%;
+    margin-top: -3%;
 }
 
 .blocks h1{
