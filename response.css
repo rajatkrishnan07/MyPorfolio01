@@ -1,0 +1,106 @@
+
+nav ul li{
+    font-size: 105%;
+}
+
+.first, .second, .third{
+    font-size: 3.2rem;
+}
+
+#mainCon1{
+   padding-top: 5%;
+   height: 50vh;
+}
+
+#mainCon2{
+    display: block;
+}
+
+#mainCon3{
+    display: block;
+}
+
+#mainCon4{
+    display: block;
+}
+
+.imgArea img{
+    margin-left: 2%;
+    margin-bottom: 40%;
+    height: 95%;
+    width:95%;
+}
+
+.aboutMe h2{
+    margin-left: -70%;
+    font-size: 1.6rem;
+    padding: 3%;
+    margin-top: -40%;
+    margin-bottom: 11%;
+    
+}
+
+.aboutMe h4{
+    margin-left: -60%;
+    margin-top: -5%;
+    text-align: right;
+    font-size: 1.1rem;
+    margin-bottom: 35%;
+}
+
+.aboutMe p{
+    font-size: 1.05rem;
+    margin-top: 3%;
+    margin-left: -90%;
+    margin-right: -55%;
+    line-height: 150%;
+}
+
+
+#mainCon3 h2{
+    margin-left: -10%;
+    margin-right: -10%;
+    font-size: 1.7rem;
+    margin-top: -5%;
+    text-align: left;
+}
+
+#mainCon3 p{
+    text-align:left;
+    margin-top: 17%;
+    font-size: 1.05rem;
+    margin-left: -10%;
+    margin-right: -55%;
+    line-height: 150%;
+}
+
+.blocks{
+    margin-top: -35%;
+    margin-left: 43%;
+}
+
+.image img{
+    height: 17rem;
+    width: 17rem;
+    margin-left: -1.5%;
+    margin-right: 5%;
+}
+
+
+.info h1{
+    margin-top: -10%;
+    font-size: 2.3rem;
+    margin-left: -16%;
+    margin-bottom: 12%;
+}
+
+.info h2{
+    margin-left: -30%;
+    font-size: 1.3rem;
+}
+
+.info p{
+    margin-left: -30%;
+    margin-right: -10%;
+    font-size: 1rem;
+}
