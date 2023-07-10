@@ -9,6 +9,7 @@
 
 .container{
     overflow-x: hidden ;
+    overflow-y: scroll;
 }
 
 .nav{
@@ -209,6 +210,17 @@ a:hover{
     padding-left: 1rem;
 }
 
+.copyright{
+    padding: 1%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.copyright span{
+    margin-left: 3%;
+}
 
 
 
