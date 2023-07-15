@@ -173,6 +173,7 @@ a:hover{
 }
 
 .info h1{
+    padding: 8%;
     font-size: 3rem;
     font-family: 'Fira Sans', sans-serif;
     color: #38a422;
@@ -182,7 +183,7 @@ a:hover{
 .info p{
     font-size: 1.1rem;
     font-family: 'Poppins', sans-serif;
-    line-height: 170%;
+    line-height: 150%;
     padding-right: 20%;
 }
 
